@@ -29,10 +29,11 @@ export default {
   },
   methods: {
     clearMessage: function () {
-      if (this.text != '')
-        this.text = '';
-      else
-        alert("nessun testo da cancellare");
+      if (this.text !== '') {
+        this.text = ''
+      } else {
+        alert('nessun testo da cancellare')
+      }
     }
   }
 }
