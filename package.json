@@ -1,7 +1,7 @@
 {
   "name": "vue-quickstart",
   "version": "1.0.0",
-  "description": "Quickstart Vue project by Pasquale De Lucia",
+  "description": "A custom vue-quickstart",
   "author": "Pasquale De Lucia <pasquale.delucia96@gmail.com>",
   "private": true,
   "scripts": {
